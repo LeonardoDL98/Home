@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
 import { View, Switch, StyleSheet, Image, Text, Alert } from 'react-native';
-<<<<<<< HEAD
+
 //Que onda mi LEO holaa hollaaaaaa leooooeoeoeo
 
-=======
 //hola chino
->>>>>>> ee4c678e83cb13c045699c4272e1a25dc449dd35
+
 
 export default class Foco extends Component {
   constructor(props) {
