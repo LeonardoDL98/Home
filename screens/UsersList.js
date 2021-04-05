@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, Switch, StyleSheet, Image, Text, Alert } from 'react-native';
 <<<<<<< HEAD
-//Que onda mi LEO holaa hollaaaaaa
+//Que onda mi LEO holaa hollaaaaaa leooooeoeoeo
 
 =======
 //hola chino
