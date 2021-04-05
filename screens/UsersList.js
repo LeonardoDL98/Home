@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { View, Switch, StyleSheet, Image, Text, Alert } from 'react-native';
-//Que onda mi LEO hahdad
+//Que onda mi LEO holaa
 
 
 export default class Foco extends Component {
