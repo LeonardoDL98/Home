@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { View, Switch, StyleSheet, Image, Text, Alert } from 'react-native';
 //hola
 //jejeje
+//maluma
 
 export default class Room1 extends Component {
   constructor(props) {
